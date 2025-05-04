@@ -1,4 +1,4 @@
-# Real-Time Chat in Your React and Node.js App with Socket.IO
+# Real-Time Chat App in React and Node.js App with Socket.io
 
 ## Client side implementation
 

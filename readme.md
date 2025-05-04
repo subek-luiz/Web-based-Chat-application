@@ -23,8 +23,10 @@ npm install socket.io-client
 ### Step 4: Install Tailwindcss using vite
 
 ```bash
-https://tailwindcss.com/docs/installation/using-vite
+npm install tailwindcss @tailwindcss/vite
 ```
+more info:https://tailwindcss.com/docs/installation/using-vite
+
 
 ## Server side implementation
 
